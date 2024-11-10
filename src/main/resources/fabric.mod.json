@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "quitter",
+	"version": "1.0",
+	"name": "QUITter",
+	"description": "Quit every session by just pressing a single button!",
+	"authors": [
+		"DevKnochen"
+	],
+	"contact": {
+		"homepage": "https://knochenn.de/"
+	},
+	"license": "MIT",
+	"icon": "assets/quitter/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.devknochen.QUITter"
+		]
+	},
+	"mixins": [
+		"quitter.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": "~1.21",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
