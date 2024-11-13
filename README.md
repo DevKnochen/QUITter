@@ -1,6 +1,5 @@
 # Quitter
-
-Quitter is a **Minecraft Fabric mod** that allows players to quit a world quickly using a customizable keybind. Designed for convenience, it provides an easy way to exit a game world without navigating through menus.
+Quitter is a **Minecraft Fabric** mod that allows players to quit a world quickly using a customizable keybind. Designed for convenience, it provides an easy way to exit a game world without navigating through menus.
 
 ## Features
 
@@ -9,8 +8,7 @@ Quitter is a **Minecraft Fabric mod** that allows players to quit a world quickl
 - **Lightweight**: Adds no other functionality, keeping the mod simple and focused.
 
 ## Installation
-
-1. Get the mod at [Modrinth](https://modrinth.com/mod/quitter)
+Get the mod at [Modrinth](https://modrinth.com/mod/quitter)
 
 ## Usage
 
