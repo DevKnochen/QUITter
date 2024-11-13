@@ -26,7 +26,7 @@ Quitter is compatible with:
 - **Minecraft Version**: 1.17 and above
 - **Fabric Loader Version**: 0.14.0 or higher
 
-For other mod compatibility questions, please refer to our [issues page](https://github.com/yourusername/quitter/issues) to report or check for existing issues.
+For other mod compatibility questions, please refer to our [issues page](https://github.com/DevKnochen/QUITter/issues) to report or check for existing issues.
 
 ## Security Policy
 
